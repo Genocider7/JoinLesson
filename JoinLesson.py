@@ -17,6 +17,9 @@ def main(argv):
     if summertime:
         today += timedelta(hours=1)
     lessons_file = open(argv[1], "r", encoding="utf-8")
+    if not lessons_file:
+        print("failed to open file " + argv[1])
+        return
     lessons = json.loads(lessons_file.read())
     lessons_file.close()
     weekday = today.weekday()
