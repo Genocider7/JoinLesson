@@ -1,0 +1,110 @@
+{
+    "0":
+    [
+        {
+            "time_hour": 10,
+            "time_minute": 10,
+            "name": "Matematyka Dyskretna - Wykłady",
+            "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2JhOTRlMzgtYTcwZC00ZjI0LWE0NjYtNGNmNWNjZmFkMTUw%40thread.v2/0?context=%7b%22Tid%22%3a%22e8a52afe-6ea8-47f7-b275-783f7087b5fa%22%2c%22Oid%22%3a%22aa28f044-fa9a-41e7-8f82-5707c28e09df%22%7d",
+            "even": true,
+            "odd": true
+        },
+        {
+            "time_hour": 12,
+            "time_minute": 30,
+            "name": "Architektura Systemów Komputerowych - Wykład",
+            "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTNiOTQ4YjctZTU1NC00NjIwLTgyZDYtNWM3ZWM1Y2YxNDVk%40thread.v2/0?context=%7b%22Tid%22%3a%22e8a52afe-6ea8-47f7-b275-783f7087b5fa%22%2c%22Oid%22%3a%2260667230-2eb6-47ee-81fd-a5eaaf42d50e%22%7d",
+            "even": true,
+            "odd": true
+        },
+        {
+            "time_hour": 14,
+            "time_minute": 40,
+            "name": "Architektura Systemów Komputerowych - Ćwiczenia",
+            "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjcxYWFjODctZDExNi00M2M1LWE1ZjMtNTFkY2I3MDQ0MzU3%40thread.v2/0?context=%7b%22Tid%22%3a%22e8a52afe-6ea8-47f7-b275-783f7087b5fa%22%2c%22Oid%22%3a%2260667230-2eb6-47ee-81fd-a5eaaf42d50e%22%7d",
+            "even": false,
+            "odd": true
+        },
+        {
+            "time_hour": 16,
+            "time_minute": 50,
+            "name": "Systemy Operacyjne - Ćwiczenia",
+            "link": "https://teams.microsoft.com/l/meetup-join/19%3a8adbe28b41824dfd91fe9beddeaeb615%40thread.tacv2/1664007678762?context=%7b%22Tid%22%3a%22e8a52afe-6ea8-47f7-b275-783f7087b5fa%22%2c%22Oid%22%3a%22c5e09608-7173-4b11-8bbf-cc92bab7929c%22%7d",
+            "even": false,
+            "odd": true
+        }
+    ],
+    "1":
+    [
+        {
+            "time_hour": 10,
+            "time_minute": 10,
+            "name": "Systemy Operacyjne - Wykład",
+            "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDgxY2VkMmUtNDdiZi00MDk5LWE2ZTItMzg4MDRjYTQzYmUx%40thread.v2/0?context=%7b%22Tid%22%3a%22e8a52afe-6ea8-47f7-b275-783f7087b5fa%22%2c%22Oid%22%3a%22e127da30-d0db-4bec-8e56-0fa244181558%22%7d",
+            "even": true,
+            "odd": true
+        },
+        {
+            "time_hour": 12,
+            "time_minute": 30,
+            "name": "Programowanie - Java - Wykład",
+            "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDRkMGM3NjktYzJkZC00MWEyLTk2MmItNzA2ZWRhMGEzY2Mw%40thread.v2/0?context=%7b%22Tid%22%3a%22e8a52afe-6ea8-47f7-b275-783f7087b5fa%22%2c%22Oid%22%3a%22c6129d1d-cf95-4e35-9c84-288a3ea1d5be%22%7d",
+            "even": true,
+            "odd": true
+        },
+        {
+            "time_hour": 16,
+            "time_minute": 50,
+            "name": "Matematyka Dyskretna - Ćwiczenia",
+            "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGEzMTEyNjAtZGJhZC00ZDJlLTg3YmQtMTFmOTNlODcxMTM3%40thread.v2/0?context=%7b%22Tid%22%3a%22e8a52afe-6ea8-47f7-b275-783f7087b5fa%22%2c%22Oid%22%3a%22aa28f044-fa9a-41e7-8f82-5707c28e09df%22%7d",
+            "even": true,
+            "odd": true
+        }
+    ],
+    "2":
+    [
+        {
+            "time_hour": 16,
+            "time_minute": 50,
+            "name": "Bezpieczeństwo Systemów Komputerowych - Wykład",
+            "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDlmYjRhNjEtNWMwMS00YTlmLTllMzgtMjM0MTcwMzY5YTRj%40thread.v2/0?context=%7b%22Tid%22%3a%22e8a52afe-6ea8-47f7-b275-783f7087b5fa%22%2c%22Oid%22%3a%22a2f6afa7-28c7-4ce0-85d5-d9d132ed63b0%22%7d",
+            "even": true,
+            "odd": true
+        },
+        {
+            "time_hour": 19,
+            "time_minute": 0,
+            "name": "Bezpieczeństwo Systemów Komputerowych - Ćwiczenia",
+            "link": "",
+            "even": false,
+            "odd": true
+        }
+    ],
+    "3":
+    [
+        {
+            "time_hour": 14,
+            "time_minute": 40,
+            "name": "Programowanie - Java - Ćwiczenia",
+            "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmYzOWM0ZWItMDdjZi00Mzg1LWIwNzctYTRiMzk1YTM5YWYx%40thread.v2/0?context=%7b%22Tid%22%3a%22e8a52afe-6ea8-47f7-b275-783f7087b5fa%22%2c%22Oid%22%3a%22c6129d1d-cf95-4e35-9c84-288a3ea1d5be%22%7d",
+            "even": false,
+            "odd": true
+        },
+        {
+            "time_hour": 16,
+            "time_minute": 50,
+            "name": "Sieci Komputerowe - Ćwiczenia",
+            "link": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NmUwZTAyYTktYzVmNS00MWVlLWFlNTAtNWZkMTM1ODU2OTMy%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522e8a52afe-6ea8-47f7-b275-783f7087b5fa%2522%252c%2522Oid%2522%253a%2522672fc3f3-30fc-4608-a015-229f6ebcaf5e%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=072be37e-c614-46f7-81ed-ab0d873b12d3",
+            "even": false,
+            "odd": true
+        },
+        {
+            "time_hour": 19,
+            "time_minute": 0,
+            "name": "Sieci Komputerowe - Wykład",
+            "link": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NTdlNGEwMmQtZjI5Ni00ZDVjLWIxMDktNDcyMWZiMzE5NzQ4%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522e8a52afe-6ea8-47f7-b275-783f7087b5fa%2522%252c%2522Oid%2522%253a%2522672fc3f3-30fc-4608-a015-229f6ebcaf5e%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=15366fcd-e115-4c78-be2d-d4e5ccb26ce4",
+            "even": true,
+            "odd": true
+        }
+    ]
+}
