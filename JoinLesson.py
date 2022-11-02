@@ -8,7 +8,7 @@ def main(argv):
     if (len(argv) < 3):
         summertime = False
     else:
-        summertime = bool(argv[2])
+        summertime = argv[2] == "True" or argv[2] == "true"
     if (len(argv) < 4):
         delay_possible = timedelta(minutes=0)
     else:
